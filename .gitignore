@@ -1,5 +1,5 @@
 results/jan.dat
 results/mar.dat
 *.ss
-planets/*.data    #Exclude all .data in planets
-!planets/final.data  #Except for final
+*.data
+!final.data
